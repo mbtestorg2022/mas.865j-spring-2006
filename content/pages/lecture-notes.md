@@ -27,7 +27,7 @@ Students
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Operations; Operator Sum Representation; System-Environment Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_1))
+Quantum Operations; Operator Sum Representation; System-Environment Model ([PDF]({{< baseurl >}}/resources/lecture_1))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -51,7 +51,7 @@ Jennifer Novosad
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Calderbank Shor Steane Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_3))
+Calderbank Shor Steane Codes ([PDF]({{< baseurl >}}/resources/lecture_3))
 {{< tdclose >}}
 {{< tdopen >}}
 Saikat Guha
@@ -63,7 +63,7 @@ Saikat Guha
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Stabilizers; Stabilizer Quantum Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_4))
+Stabilizers; Stabilizer Quantum Codes ([PDF]({{< baseurl >}}/resources/lecture_4))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -75,7 +75,7 @@ Kayla Jacobs
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Topological Quantum Codes; Kitaev's Anyon Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_5))
+Topological Quantum Codes; Kitaev's Anyon Model ([PDF]({{< baseurl >}}/resources/lecture_5))
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvester
@@ -87,7 +87,7 @@ Igor Sylvester
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Stabilizers II; Computing on Quantum Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_6))
+Stabilizers II; Computing on Quantum Codes ([PDF]({{< baseurl >}}/resources/lecture_6))
 {{< tdclose >}}
 {{< tdopen >}}
 Danial Lashkari
@@ -99,7 +99,7 @@ Danial Lashkari
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Concatenated Codes; The Threshold Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_7))
+Concatenated Codes; The Threshold Theorem ([PDF]({{< baseurl >}}/resources/lecture_7))
 {{< tdclose >}}
 {{< tdopen >}}
 Salman Abolfathe
@@ -111,7 +111,7 @@ Salman Abolfathe
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Cluster State Quantum Computation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_8))
+Cluster State Quantum Computation ([PDF]({{< baseurl >}}/resources/lecture_8))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -123,7 +123,7 @@ Kayla Jacobs
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Measurement and Teleportation Based Quantum Computation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_9))
+Measurement and Teleportation Based Quantum Computation ([PDF]({{< baseurl >}}/resources/lecture_9))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -159,7 +159,7 @@ Isaac Kim
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Algorithms: The Abelian Hidden Subgroup Problem; QFT Over Sn (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_12))
+Quantum Algorithms: The Abelian Hidden Subgroup Problem; QFT Over Sn ([PDF]({{< baseurl >}}/resources/lecture_12))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -171,7 +171,7 @@ Kayla Jacobs
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The Nonabelian HSP; Hidden Dihedral Group; Positive and Negative Results (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_13))
+The Nonabelian HSP; Hidden Dihedral Group; Positive and Negative Results ([PDF]({{< baseurl >}}/resources/lecture_13))
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvestor
@@ -183,7 +183,7 @@ Igor Sylvestor
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Channels I: Quantum Data Compression; Entanglement Concentration; Typical Subspaces (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_14))
+Channels I: Quantum Data Compression; Entanglement Concentration; Typical Subspaces ([PDF]({{< baseurl >}}/resources/lecture_14))
 {{< tdclose >}}
 {{< tdopen >}}
 Stephen Jordan
@@ -195,7 +195,7 @@ Stephen Jordan
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Channels II: Holevo's Theorem; HSW Theorem; Entanglement Assisted Channel Capacity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_15))
+Channels II: Holevo's Theorem; HSW Theorem; Entanglement Assisted Channel Capacity ([PDF]({{< baseurl >}}/resources/lecture_15))
 {{< tdclose >}}
 {{< tdopen >}}
 Saikat Guha
@@ -207,7 +207,7 @@ Saikat Guha
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Channels III: Quantum-Quantum Channels, Mother/Father Protocol; Distillable Entanglement (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_16))
+Channels III: Quantum-Quantum Channels, Mother/Father Protocol; Distillable Entanglement ([PDF]({{< baseurl >}}/resources/lecture_16))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -219,7 +219,7 @@ Kayla Jacobs
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Entanglement as a Physical Resource (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_17))
+Entanglement as a Physical Resource ([PDF]({{< baseurl >}}/resources/lecture_17))
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvestor
@@ -231,7 +231,7 @@ Igor Sylvestor
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Protocols - Quantum Communication Complexity; Distributed Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture18_alt))
+Quantum Protocols - Quantum Communication Complexity; Distributed Algorithms ([PDF]({{< baseurl >}}/resources/lecture18_alt))
 {{< tdclose >}}
 {{< tdopen >}}
 Jennifer Novosad
@@ -243,7 +243,7 @@ Jennifer Novosad
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Games (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_19))
+Quantum Games ([PDF]({{< baseurl >}}/resources/lecture_19))
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
